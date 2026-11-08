@@ -45,7 +45,7 @@ dry-bean-classifier/
 |   `-- metrics.csv
 ```
 
-Live Streamlit app: **<https://REPLACE-WITH-YOUR-APP-URL.streamlit.app>**
+Live Streamlit app: <https://dry-bean-classifier-ml-2026aj05244.streamlit.app/>
 
 ## d. Models used
 
