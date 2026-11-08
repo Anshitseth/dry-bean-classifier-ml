@@ -136,4 +136,4 @@ st.dataframe(
 )
 best = comparison["MCC"].idxmax()
 st.caption(f"Highest MCC on this file: **{best}**")
-st.bar_chart(comparison[["Accuracy", "F1", "MCC"]])
+st.bar_chart(comparison[["Accuracy", "F1", "MCC"]], stack=False)
